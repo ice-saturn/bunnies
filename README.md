@@ -6,6 +6,6 @@ This is a little fun one-page web about bunnies for my school project.
 - CSS
 - JavaScript
 ## How to launch
-Open this link: https://ice-saturn.github.io/2ite-web-pelc-petr/
+Open this link: https://ice-saturn.github.io/bunnies/
 ## What I'm proud of
-That it looks the same / better then I imagined
+That it looks as good / better then I imagined
